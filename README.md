@@ -1,1 +1,1 @@
-# mac-optimize
+You might think I’m a bit silly, but when I used to hear "clean your laptop because it's running slow," I thought it meant literally cleaning out dust and stuff. And I did that when my Mac had issues. Now I realize it's important to clear out the Mac's memory too. I found a few good methods here [https://setapp.com/how-to/clean-up-and-optimize-your-mac](https://setapp.com/how-to/clean-up-and-optimize-your-mac). I try to always keep enough free space on my Mac so it runs smoothly and I can use all my software without issues.
